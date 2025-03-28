@@ -1,3 +1,6 @@
+//Feito por: Mário Mendonça e Miguel Reis
+
+
 #include "bingo.h"
 
 int main() {
